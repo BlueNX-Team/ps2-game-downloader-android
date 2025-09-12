@@ -8,7 +8,7 @@
     "icono": "https://www.gamesgx.net/pbprbavr/crash-bandicoot-the-wrath-of-cortex.jpg"
   },
   {
-    "nombre": "Test estado de link",
+    "nombre": "test Idioma Español",
     "url": "https://archive.org/download/...",
     "categoria": "Accion",
     "SystemVideo": "PAL",
@@ -16,7 +16,15 @@
     "icono": "https://www.gamesgx.net/pbprbavr/crash-bandicoot-the-wrath-of-cortex.jpg"
   },
   {
-    "nombre": "Test estado de link",
+    "nombre": "test Idioma Multi",
+    "url": "https://archive.org/download/...",
+    "categoria": "Accion",
+    "SystemVideo": "PAL",
+    "Idioma": "Español",
+    "icono": "https://www.gamesgx.net/pbprbavr/crash-bandicoot-the-wrath-of-cortex.jpg"
+  },
+  {
+    "nombre": "test Idioma Japones",
     "url": "https://archive.org/download/...",
     "categoria": "Accion",
     "SystemVideo": "NTSC-J",
@@ -24,6 +32,7 @@
     "icono": "https://www.gamesgx.net/pbprbavr/crash-bandicoot-the-wrath-of-cortex.jpg"
   }
 ]
+
 
 
 
