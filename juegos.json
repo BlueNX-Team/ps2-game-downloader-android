@@ -14,8 +14,17 @@
     "SystemVideo": "PAL",
     "Idioma": "Español",
     "icono": "https://www.gamesgx.net/pbprbavr/crash-bandicoot-the-wrath-of-cortex.jpg"
+  },
+  {
+    "nombre": "Test estado de link",
+    "url": "https://archive.org/download/...",
+    "categoria": "Accion",
+    "SystemVideo": "NTSC-J",
+    "Idioma": "Japones",
+    "icono": "https://www.gamesgx.net/pbprbavr/crash-bandicoot-the-wrath-of-cortex.jpg"
   }
 ]
+
 
 
 
