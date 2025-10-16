@@ -22,8 +22,17 @@
     "zipsize": "2.78MB",
     "url": "https://switch.cdn.fortheusers.org/zips/mGBA.zip",
     "icono": "https://switch.cdn.fortheusers.org/packages/mGBA/icon.png"
+  },
+  {
+    "nombre": "VBA-NEXT",
+    "version": "0.10;5",
+    "size": "2.64MB",
+    "zipsize": "862.3KB",
+    "url": "https://switch.cdn.fortheusers.org/zips/vba-next.zip",
+    "icono": "https://switch.cdn.fortheusers.org/packages/vba-next/icon.png"
   }
 ]
+
 
 
 
