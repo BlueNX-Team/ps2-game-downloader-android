@@ -2,10 +2,77 @@
   {
     "nombre": "20.5.0",
     "version": "Normal",
-    "url": "https://github.com/exelix11/SwitchThemeInjector/releases/latest/download/NXThemesInstaller.nro",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
     "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
-  }
+  },
+  {
+    "nombre": "20.4.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.4.0/Firmware.20.4.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "20.3.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.3.0/Firmware.20.3.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "20.2.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.2.0/Firmware.20.2.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "20.1.5",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.1.5/Firmware.20.1.5.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "20.1.1",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.1.1/Firmware.20.1.1.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "20.1.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.1.0/Firmware.20.1.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "20.0.1",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.0.1/Firmware.20.0.1.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "20.0.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/20.0.0/Firmware.20.0.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "19.0.1",
+    "version": "Rebootless",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1r/Firmware.19.0.1.Rebootless.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "19.0.1",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "19.0.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
 ]
+
 
 
 
