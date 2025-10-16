@@ -4,34 +4,11 @@
     "version": "1.21.0",
     "size": "172.56MB",
     "zipsize": "56.75 MB",
-    "url": "https://switch.cdn.fortheusers.org/zips/RetroNX.zip",
+    "url": "https://github.com/exelix11/SwitchThemeInjector/releases/latest/download/NXThemesInstaller.nro",
     "icono": "https://switch.cdn.fortheusers.org/packages/RetroNX/icon.png"
-  },
-  {
-    "nombre": "PPSSPP",
-    "version": "1.17.x",
-    "size": "39.89MB",
-    "zipsize": "18.84MB",
-    "url": "https://switch.cdn.fortheusers.org/zips/ppsspp.zip",
-    "icono": "https://switch.cdn.fortheusers.org/packages/ppsspp/icon.png"
-  },
-  {
-    "nombre": "mGBA",
-    "version": "0.10;5",
-    "size": "7.47 MB",
-    "zipsize": "2.78MB",
-    "url": "https://switch.cdn.fortheusers.org/zips/mGBA.zip",
-    "icono": "https://switch.cdn.fortheusers.org/packages/mGBA/icon.png"
-  },
-  {
-    "nombre": "VBA-NEXT",
-    "version": "0.10;5",
-    "size": "2.64MB",
-    "zipsize": "862.3KB",
-    "url": "https://switch.cdn.fortheusers.org/zips/vba-next.zip",
-    "icono": "https://switch.cdn.fortheusers.org/packages/vba-next/icon.png"
   }
 ]
+
 
 
 
