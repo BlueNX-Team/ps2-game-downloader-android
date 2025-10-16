@@ -71,7 +71,74 @@
     "url": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.0/Firmware.19.0.0.zip",
     "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
   },
+  {
+    "nombre": "18.1.0",
+    "version": "Rebootless",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0r/Firmware.18.1.0.Rebootless.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "18.1.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "18.0.1",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "18.0.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.0/Firmware.18.0.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "17.0.1",
+    "version": "Rebootless",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1r/Firmware.17.0.1.Rebootless.Update.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "17.0.1",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1/Firmware.17.0.1.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "17.0.0",
+    "version": "Rebootless",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.0r/Firmware.17.0.0.Rebootless.Update.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "17.0.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.0/Firmware.17.0.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "16.1.0",
+    "version": "Normal",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/16.1.0/Firmware.16.1.0.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "16.0.3",
+    "version": "Rebootless UPD 2",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r2/Firmware.16.0.3.Rebootless.Update.2.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
+  {
+    "nombre": "16.0.3",
+    "version": "Rebootless",
+    "url": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r/Firmware.16.0.3.Rebootless.Update.zip",
+    "icono": "https://raw.githubusercontent.com/BlueNX-Team/ps2-game-downloader-android/refs/heads/main/NSUpdate.jpg"
+  },
 ]
+
 
 
 
